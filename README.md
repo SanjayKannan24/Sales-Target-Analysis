@@ -1,8 +1,9 @@
 # Project Name: Sales Target Analysis
+# Company Name: ABC company
 
 ## Project Description
 
-This repository comprises an exploratory data analysis (EDA) Python file, a Power BI report, and a PowerPoint presentation, collectively providing comprehensive insights into sales data from the past three years. The analysis covers diverse dimensions, including customer details, product insights, sales team performance, and target achievements.
+This repository comprises an exploratory data analysis (EDA) Python file, a Power BI report, and a PowerPoint presentation, collectively providing comprehensive insights into sales data from 2017 to 2019. The analysis covers diverse dimensions, including customer details, product insights, sales team performance, and target achievements.
 
 ## Prerequisites
 
