@@ -9,8 +9,8 @@ This repository comprises an exploratory data analysis (EDA) Python file, a Powe
 
 Before using this repository, ensure you have the following prerequisites installed:
 
-Python libraries: pandas, matplotlib, seaborn.
-Power BI Desktop for an interactive exploration of the Sales_Analysis_Report.pbix file.
+- Python libraries: pandas, matplotlib, seaborn.
+- Power BI Desktop for an interactive exploration of the Sales_Analysis_Report.pbix file.
 
 ## Features
 
